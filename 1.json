@@ -1,0 +1,130 @@
+[
+    {
+        "binario": "000000000",
+        "imagem": "assasino"
+    },
+    {
+        "binario": "111111111",
+        "imagem": "peppa pig"
+    },
+    {
+        "binario": "100000000",
+        "imagem": "resistor"
+    },
+    {
+        "binario": "010000000",
+        "imagem": "nazis"
+    },
+    {
+        "binario": "001000000",
+        "imagem": "theseus"
+    },
+    {
+        "binario": "000100000",
+        "imagem": "sirius"
+    },
+    {
+        "binario": "000010000",
+        "imagem": "sonserina"
+    },
+    {
+        "binario": "000001000",
+        "imagem": "zetsu"
+    },
+    {
+        "binario": "000000100",
+        "imagem": "sasori"
+    },
+    {
+        "binario": "000000010",
+        "imagem": "cisne"
+    },
+    {
+        "binario": "000000001",
+        "imagem": "cesta de palha"
+    },
+    {
+        "binario": "011111111",
+        "imagem": "mop up"
+    },
+    {
+        "binario": "101111111",
+        "imagem": "cobweb"
+    },
+    {
+        "binario": "110111111",
+        "imagem": "avião de papel"
+    },
+    {
+        "binario": "111011111",
+        "imagem": "bambu"
+    },
+    {
+        "binario": "111101111",
+        "imagem": "pica-pau"
+    },
+    {
+        "binario": "111110111",
+        "imagem": "puff peixe"
+    },
+    {
+        "binario": "111111011",
+        "imagem": "bpm metrônomo"
+    },
+    {
+        "binario": "111111101",
+        "imagem": "pipoca"
+    },
+    {
+        "binario": "111111110",
+        "imagem": "pipa festa junina"
+    },
+    {
+        "binario": "111000000",
+        "imagem": "passas"
+    },
+    {
+        "binario": "000111000",
+        "imagem": "sebastian"
+    },
+    {
+        "binario": "000000111",
+        "imagem": "saci-pererê"
+    },
+    {
+        "binario": "000111111",
+        "imagem": "sabão pó"
+    },
+    {
+        "binario": "111000111",
+        "imagem": "bispo"
+    },
+    {
+        "binario": "111111000",
+        "imagem": "bob esponja"
+    },
+    {
+        "binario": "001000100",
+        "imagem": "tesoura"
+    },
+    {
+        "binario": "100000001",
+        "imagem": "roçadeira"
+    },
+    {
+        "binario": "011111110",
+        "imagem": "ambev"
+    },
+    {
+        "binario": "110111011",
+        "imagem": "vbm tank"
+    },
+    {
+        "binario": "010111010",
+        "imagem": "nubank"
+    },
+    {
+        "binario": "101000101",
+        "imagem": "cascão"
+    }
+]

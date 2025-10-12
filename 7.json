@@ -1,0 +1,146 @@
+[
+    {
+        "binario": "101001111",
+        "imagem": "catapulta"
+    },
+    {
+        "binario": "010110000",
+        "imagem": "nave espacial"
+    },
+    {
+        "binario": "101100111",
+        "imagem": "creeper"
+    },
+    {
+        "binario": "010011000",
+        "imagem": "namaste"
+    },
+    {
+        "binario": "111100101",
+        "imagem": "prego"
+    },
+    {
+        "binario": "000011010",
+        "imagem": "simon"
+    },
+    {
+        "binario": "111001101",
+        "imagem": "bitcoin"
+    },
+    {
+        "binario": "000110010",
+        "imagem": "esfinge"
+    },
+    {
+        "binario": "011000011",
+        "imagem": "masmorra"
+    },
+    {
+        "binario": "100111100",
+        "imagem": "rapper"
+    },
+    {
+        "binario": "110000110",
+        "imagem": "fósforo"
+    },
+    {
+        "binario": "001111001",
+        "imagem": "tapete mágico"
+    },
+    {
+        "binario": "011010111",
+        "imagem": "manopla"
+    },
+    {
+        "binario": "100101000",
+        "imagem": "rex"
+    },
+    {
+        "binario": "110010111",
+        "imagem": "avon perfume"
+    },
+    {
+        "binario": "001101000",
+        "imagem": "dexter"
+    },
+    {
+        "binario": "111010011",
+        "imagem": "panama"
+    },
+    {
+        "binario": "111010110",
+        "imagem": "penknife"
+    },
+    {
+        "binario": "000101001",
+        "imagem": "escada"
+    },
+    {
+        "binario": "000101100",
+        "imagem": "escorpião"
+    },
+    {
+        "binario": "000101110",
+        "imagem": "escavadeira"
+    },
+    {
+        "binario": "000101011",
+        "imagem": "esquimó"
+    },
+    {
+        "binario": "111010100",
+        "imagem": "banheira"
+    },
+    {
+        "binario": "111010001",
+        "imagem": "pinhata"
+    },
+    {
+        "binario": "011000110",
+        "imagem": "maçã verde"
+    },
+    {
+        "binario": "100111001",
+        "imagem": "rabbids"
+    },
+    {
+        "binario": "110000011",
+        "imagem": "office michael"
+    },
+    {
+        "binario": "001111100",
+        "imagem": "tubarão"
+    },
+    {
+        "binario": "101111100",
+        "imagem": "cubo rubik"
+    },
+    {
+        "binario": "101111001",
+        "imagem": "capeta"
+    },
+    {
+        "binario": "010000011",
+        "imagem": "noz moscada"
+    },
+    {
+        "binario": "010000110",
+        "imagem": "nsv gun"
+    },
+    {
+        "binario": "100111101",
+        "imagem": "rabicó"
+    },
+    {
+        "binario": "001111101",
+        "imagem": "tobogã"
+    },
+    {
+        "binario": "011000010",
+        "imagem": "maçonaria"
+    },
+    {
+        "binario": "110000010",
+        "imagem": "fazenda"
+    }
+]

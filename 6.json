@@ -1,0 +1,130 @@
+[
+    {
+        "binario": "100010101",
+        "imagem": "ringo"
+    },
+    {
+        "binario": "011101010",
+        "imagem": "magnet"
+    },
+    {
+        "binario": "001010101",
+        "imagem": "dengue"
+    },
+    {
+        "binario": "110101010",
+        "imagem": "viking"
+    },
+    {
+        "binario": "100100011",
+        "imagem": "arara amarela"
+    },
+    {
+        "binario": "001001110",
+        "imagem": "dádiva"
+    },
+    {
+        "binario": "011101000",
+        "imagem": "mike wazowski"
+    },
+    {
+        "binario": "110101000",
+        "imagem": "foxy"
+    },
+    {
+        "binario": "100010111",
+        "imagem": "rainbow"
+    },
+    {
+        "binario": "001010111",
+        "imagem": "wooden box"
+    },
+    {
+        "binario": "101000100",
+        "imagem": "caçarola"
+    },
+    {
+        "binario": "101000001",
+        "imagem": "castor"
+    },
+    {
+        "binario": "001000101",
+        "imagem": "discoteca"
+    },
+    {
+        "binario": "100000101",
+        "imagem": "rosquinha"
+    },
+    {
+        "binario": "010111011",
+        "imagem": "nabo mexicano"
+    },
+    {
+        "binario": "010111110",
+        "imagem": "nappy fralda"
+    },
+    {
+        "binario": "110111010",
+        "imagem": "fabiana"
+    },
+    {
+        "binario": "011111010",
+        "imagem": "empanado"
+    },
+    {
+        "binario": "100011100",
+        "imagem": "homer"
+    },
+    {
+        "binario": "001110001",
+        "imagem": "dvd"
+    },
+    {
+        "binario": "011100011",
+        "imagem": "marmita"
+    },
+    {
+        "binario": "110001110",
+        "imagem": "fit food"
+    },
+    {
+        "binario": "010100111",
+        "imagem": "norbit"
+    },
+    {
+        "binario": "010001111",
+        "imagem": "notebook"
+    },
+    {
+        "binario": "101011000",
+        "imagem": "camisa"
+    },
+    {
+        "binario": "101110000",
+        "imagem": "coffee espresso"
+    },
+    {
+        "binario": "011100111",
+        "imagem": "mr beast"
+    },
+    {
+        "binario": "110001111",
+        "imagem": "vtuber"
+    },
+    {
+        "binario": "100011000",
+        "imagem": "hermes"
+    },
+    {
+        "binario": "001110000",
+        "imagem": "divisória"
+    },
+    {
+        "binario": "110001001",
+        "imagem": "fada do dente"
+    },
+    {
+        "binario": "011100100",
+        "imagem": "mirror"
+    }
+]

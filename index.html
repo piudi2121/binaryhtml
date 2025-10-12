@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Binário Matrix Trainer</title>
+
+		<style>
+			/* CSS para simular a estética do Tkinter e focar na matriz */
+			body {
+				background-color: #181c14; /* Fundo escuro */
+				color: #ecdfcc; /* Texto claro */
+				font-family: "Courier New", monospace; /* Fonte monoespaçada */
+				/* Configuração de centralização para o body/viewport */
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				justify-content: center;
+				height: 100vh;
+				width: 100vw;
+				margin: 0;
+				overflow: hidden;
+				user-select: none;
+
+				/* Ajuste de peso da fonte (mais fino) */
+				font-weight: 300;
+			}
+
+			/* Estilo da tela de input */
+			#input-screen {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				justify-content: center;
+				height: 100%;
+				width: 100%;
+				text-align: center;
+				padding: 20px;
+				box-sizing: border-box;
+			}
+
+			#file-input {
+				padding: 15px;
+				font-size: 1.5rem; /* Fonte menor na caixa de input */
+				text-align: center;
+				border: 2px solid #ecdfcc;
+				background-color: #333;
+				color: #ecdfcc;
+				width: 80%;
+				max-width: 300px;
+				margin-top: 20px;
+				font-weight: 300;
+			}
+
+			#file-input::placeholder {
+				color: #aaa;
+			}
+
+			/* Estilo da tela principal (jogo) */
+			#game-screen {
+				display: none;
+				height: 100%;
+				width: 100%;
+			}
+
+			/* CENTRALIZAÇÃO PERFEITA DO TEXTO */
+			#matrix-display {
+				/* Fonte BEM MENOR (ajuste o 8vw ou o 2.5rem se precisar mais) */
+				font-size: 8vw;
+
+				white-space: pre;
+				line-height: 1.2;
+
+				margin: 0;
+				padding: 0;
+
+				/* Centralização usando flexbox */
+				display: flex;
+				align-items: center; /* Centraliza verticalmente */
+				justify-content: center; /* Centraliza horizontalmente (o bloco) */
+				flex-direction: column;
+				height: 100vh;
+				width: 100%;
+
+				/* O comando text-align: center É CRUCIAL para centralizar as linhas
+           INDIVIDUAIS da matriz (quebras de linha). */
+				text-align: center;
+
+				/* Força a centralização na fonte menor */
+				font-weight: inherit; /* Usa o peso definido no body */
+			}
+
+			/* Mídia Query para telas menores (Celulares) - Ajusta o tamanho da fonte */
+			@media (max-width: 600px) {
+				#matrix-display {
+					font-size: 12vw; /* Ajusta a fonte para dispositivos móveis */
+				}
+			}
+
+			/* Contador */
+			#counter-display {
+				position: absolute;
+				top: 20px;
+				right: 20px;
+				font-size: 1.2rem; /* Fonte menor no contador */
+				color: #697565;
+				font-weight: 300;
+			}
+
+			/* Mensagens de erro/status */
+			#status-message {
+				position: fixed;
+				bottom: 10%;
+				font-size: 1rem;
+				color: red;
+				display: none;
+				font-weight: 300;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="input-screen">
+			<h1>Memorização de Matriz Binária</h1>
+			<label for="file-input" style="font-size: 24px"
+				>Digite o nome da planilha (ex: 1307):</label
+			>
+			<input
+				type="text"
+				id="file-input"
+				placeholder="Nome do arquivo (ex: 1307)"
+			/>
+			<p style="margin-top: 20px; color: #697565">
+				Pressione ENTER para carregar.
+			</p>
+			<p id="status-message-input" style="color: red; margin-top: 15px"></p>
+		</div>
+
+		<div id="game-screen">
+			<div id="counter-display">
+				Contador: <span id="counter-value">0</span>
+			</div>
+			<pre id="matrix-display">Carregando...</pre>
+			<div id="status-message"></div>
+		</div>
+
+		<script>
+			// Variáveis de Estado
+			let tabela = {}; // Dicionário para armazenar os dados do JSON
+			let binarios = []; // Lista de binários (chaves)
+			let estadoMostrandoImagem = false;
+			let binarioAtual = "";
+			let contador = 0;
+			let nomeBase = "";
+
+			// Referências DOM
+			const inputScreen = document.getElementById("input-screen");
+			const gameScreen = document.getElementById("game-screen");
+			const fileInput = document.getElementById("file-input");
+			const matrixDisplay = document.getElementById("matrix-display");
+			const counterValue = document.getElementById("counter-value");
+			const statusMessageInput = document.getElementById(
+				"status-message-input"
+			);
+
+			// --- Funções Auxiliares ---
+
+			/**
+			 * Converte uma string binária de 9 dígitos para o formato 3x3 com quebras de linha.
+			 * @param {string} binario - O binário de 9 dígitos.
+			 * @returns {string} A matriz 3x3 formatada.
+			 */
+			function binarioParaMatriz(binario) {
+				if (typeof binario !== "string" || binario.length !== 9) {
+					return "ERRO";
+				}
+				return `${binario.slice(0, 3)}\n${binario.slice(3, 6)}\n${binario.slice(
+					6,
+					9
+				)}`;
+			}
+
+			/**
+			 * Lógica principal para avançar no jogo (Mostrar Binário ou Mostrar Imagem).
+			 */
+			function proximaAcao() {
+				if (Object.keys(tabela).length === 0) {
+					// Não faz nada se a tabela não foi carregada
+					return;
+				}
+
+				if (!estadoMostrandoImagem) {
+					// 1. Mostrar o Binário (Matriz)
+					binarioAtual = binarios[Math.floor(Math.random() * binarios.length)];
+					matrixDisplay.textContent = binarioParaMatriz(binarioAtual);
+					contador++;
+					counterValue.textContent = contador;
+					estadoMostrandoImagem = true;
+				} else {
+					// 2. Mostrar a Imagem (Resultado)
+					const imagem = tabela[binarioAtual] || "Imagem não encontrada.";
+					const matriz = binarioParaMatriz(binarioAtual);
+					matrixDisplay.textContent = `${matriz}\n\n${imagem}`; // Adiciona a imagem
+					estadoMostrandoImagem = false;
+				}
+			}
+
+			/**
+			 * Carrega o arquivo JSON correspondente ao nome base.
+			 * @param {string} nome - O nome base da planilha/JSON (ex: '1307').
+			 */
+			async function carregarDados(nome) {
+				nomeBase = nome.trim();
+				const nomeArquivo = `${nomeBase}.json`;
+				statusMessageInput.textContent = `Tentando carregar ${nomeArquivo}...`;
+
+				try {
+					// Simula a requisição ao "backend" (lê o JSON local)
+					const response = await fetch(nomeArquivo);
+					if (!response.ok) {
+						throw new Error(
+							`Erro de rede ou arquivo não encontrado: ${response.status}`
+						);
+					}
+
+					const dados = await response.json();
+
+					// Constrói o dicionário {binário: imagem}
+					tabela = {};
+					dados.forEach((item) => {
+						tabela[item.binario] = item.imagem;
+					});
+
+					binarios = Object.keys(tabela);
+
+					if (binarios.length === 0) {
+						throw new Error(
+							"O arquivo JSON está vazio ou no formato incorreto."
+						);
+					}
+
+					// Inicia o jogo
+					inputScreen.style.display = "none";
+					gameScreen.style.display = "flex";
+					proximaAcao(); // Mostra a primeira matriz
+					statusMessageInput.textContent = ""; // Limpa a mensagem
+				} catch (error) {
+					console.error("Falha ao carregar os dados:", error);
+					statusMessageInput.textContent = `ERRO: Não foi possível carregar os dados de '${nomeArquivo}'. Verifique se o arquivo existe e se o nome está correto.`;
+				}
+			}
+
+			// --- Event Listeners ---
+
+			// Input Screen: Lida com a submissão do nome do arquivo
+			fileInput.addEventListener("keypress", function (e) {
+				if (e.key === "Enter") {
+					const nome = fileInput.value;
+					if (nome) {
+						carregarDados(nome);
+					} else {
+						statusMessageInput.textContent =
+							"Por favor, digite o nome da planilha.";
+					}
+				}
+			});
+
+			// Game Screen: Lida com teclas e cliques (simulando o Tkinter)
+			document.addEventListener("keydown", function (e) {
+				if (gameScreen.style.display !== "none") {
+					if (e.key === "Escape") {
+						// Simula a saída do modo fullscreen, mas no navegador é complexo.
+						// Apenas volta para a tela de input.
+						gameScreen.style.display = "none";
+						inputScreen.style.display = "flex";
+						// Reset do estado
+						estadoMostrandoImagem = false;
+						contador = 0;
+						counterValue.textContent = 0;
+						fileInput.value = "";
+						matrixDisplay.textContent = "Carregando...";
+					} else if (e.key === "Enter" || e.key.length === 1 || e.key === " ") {
+						// Qualquer tecla ou Enter avança a ação
+						proximaAcao();
+					}
+				}
+			});
+
+			document.addEventListener("click", function () {
+				if (gameScreen.style.display !== "none") {
+					proximaAcao();
+				}
+			});
+
+			// Foco inicial
+			fileInput.focus();
+		</script>
+	</body>
+</html>

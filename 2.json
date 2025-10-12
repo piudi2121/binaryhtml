@@ -1,0 +1,134 @@
+[
+    {
+        "binario": "000101111",
+        "imagem": "scooby"
+    },
+    {
+        "binario": "111010000",
+        "imagem": "benson"
+    },
+    {
+        "binario": "111101101",
+        "imagem": "peacock"
+    },
+    {
+        "binario": "000010010",
+        "imagem": "sininho"
+    },
+    {
+        "binario": "100100100",
+        "imagem": "rã"
+    },
+    {
+        "binario": "010010010",
+        "imagem": "nani"
+    },
+    {
+        "binario": "001001001",
+        "imagem": "didator"
+    },
+    {
+        "binario": "011101111",
+        "imagem": "macabro"
+    },
+    {
+        "binario": "110101111",
+        "imagem": "vagabundo"
+    },
+    {
+        "binario": "111101011",
+        "imagem": "pacman"
+    },
+    {
+        "binario": "111101110",
+        "imagem": "pig feet"
+    },
+    {
+        "binario": "111100111",
+        "imagem": "barba negra"
+    },
+    {
+        "binario": "111001111",
+        "imagem": "bat baby"
+    },
+    {
+        "binario": "101010101",
+        "imagem": "canguru"
+    },
+    {
+        "binario": "010101010",
+        "imagem": "incandescente"
+    },
+    {
+        "binario": "111010111",
+        "imagem": "ponei branco"
+    },
+    {
+        "binario": "101111101",
+        "imagem": "copag"
+    },
+    {
+        "binario": "100010001",
+        "imagem": "hunter"
+    },
+    {
+        "binario": "001010100",
+        "imagem": "dinheiro"
+    },
+    {
+        "binario": "011101110",
+        "imagem": "amigovos"
+    },
+    {
+        "binario": "110101011",
+        "imagem": "faca militar"
+    },
+    {
+        "binario": "000010111",
+        "imagem": "snape"
+    },
+    {
+        "binario": "111101000",
+        "imagem": "picles"
+    },
+    {
+        "binario": "100010000",
+        "imagem": "rinoceronte"
+    },
+    {
+        "binario": "010010000",
+        "imagem": "ananás"
+    },
+    {
+        "binario": "101101111",
+        "imagem": "cuca bicho"
+    },
+    {
+        "binario": "001010000",
+        "imagem": "dinossauro"
+    },
+    {
+        "binario": "000110000",
+        "imagem": "safe house"
+    },
+    {
+        "binario": "000011000",
+        "imagem": "sms"
+    },
+    {
+        "binario": "000010100",
+        "imagem": "cenoura"
+    },
+    {
+        "binario": "000010001",
+        "imagem": "sandy"
+    },
+    {
+        "binario": "001111111",
+        "imagem": "dipper"
+    },
+    {
+        "binario": "100111111",
+        "imagem": "happy birthday"
+    }
+]
