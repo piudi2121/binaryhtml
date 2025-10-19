@@ -1,0 +1,2050 @@
+[
+    {
+        "binario": "000000000",
+        "imagem": "assasino"
+    },
+    {
+        "binario": "000000001",
+        "imagem": "cesta de palha"
+    },
+    {
+        "binario": "000000010",
+        "imagem": "cisne"
+    },
+    {
+        "binario": "000000011",
+        "imagem": "sassami"
+    },
+    {
+        "binario": "000000100",
+        "imagem": "sasori"
+    },
+    {
+        "binario": "000000101",
+        "imagem": "sasuke"
+    },
+    {
+        "binario": "000000110",
+        "imagem": "vó"
+    },
+    {
+        "binario": "000000111",
+        "imagem": "saci-pererê"
+    },
+    {
+        "binario": "000001000",
+        "imagem": "zetsu"
+    },
+    {
+        "binario": "000001001",
+        "imagem": "estátua"
+    },
+    {
+        "binario": "000001010",
+        "imagem": "extintor"
+    },
+    {
+        "binario": "000001011",
+        "imagem": "estomago"
+    },
+    {
+        "binario": "000001100",
+        "imagem": "estrela"
+    },
+    {
+        "binario": "000001101",
+        "imagem": "estica"
+    },
+    {
+        "binario": "000001110",
+        "imagem": "steve"
+    },
+    {
+        "binario": "000001111",
+        "imagem": "stop"
+    },
+    {
+        "binario": "000010000",
+        "imagem": "sonserina"
+    },
+    {
+        "binario": "000010001",
+        "imagem": "sandy"
+    },
+    {
+        "binario": "000010010",
+        "imagem": "sininho"
+    },
+    {
+        "binario": "000010011",
+        "imagem": "cinema"
+    },
+    {
+        "binario": "000010100",
+        "imagem": "cenoura"
+    },
+    {
+        "binario": "000010101",
+        "imagem": "sonic"
+    },
+    {
+        "binario": "000010110",
+        "imagem": "sanfona"
+    },
+    {
+        "binario": "000010111",
+        "imagem": "snape"
+    },
+    {
+        "binario": "000011000",
+        "imagem": "sms"
+    },
+    {
+        "binario": "000011001",
+        "imagem": "semi-deus hércules"
+    },
+    {
+        "binario": "000011010",
+        "imagem": "simon game"
+    },
+    {
+        "binario": "000011011",
+        "imagem": "samambaia"
+    },
+    {
+        "binario": "000011100",
+        "imagem": "smurf"
+    },
+    {
+        "binario": "000011101",
+        "imagem": "smigol"
+    },
+    {
+        "binario": "000011110",
+        "imagem": "semáforo"
+    },
+    {
+        "binario": "000011111",
+        "imagem": "sombrero"
+    },
+    {
+        "binario": "000100000",
+        "imagem": "sirius"
+    },
+    {
+        "binario": "000100001",
+        "imagem": "sardinha lata"
+    },
+    {
+        "binario": "000100010",
+        "imagem": "sirene"
+    },
+    {
+        "binario": "000100011",
+        "imagem": "seriema"
+    },
+    {
+        "binario": "000100100",
+        "imagem": "serra"
+    },
+    {
+        "binario": "000100101",
+        "imagem": "sirigueijo"
+    },
+    {
+        "binario": "000100110",
+        "imagem": "sorvete"
+    },
+    {
+        "binario": "000100111",
+        "imagem": "cérebro"
+    },
+    {
+        "binario": "000101000",
+        "imagem": "saxofone"
+    },
+    {
+        "binario": "000101001",
+        "imagem": "escada"
+    },
+    {
+        "binario": "000101010",
+        "imagem": "scanner"
+    },
+    {
+        "binario": "000101011",
+        "imagem": "esquimó"
+    },
+    {
+        "binario": "000101100",
+        "imagem": "escorpião"
+    },
+    {
+        "binario": "000101101",
+        "imagem": "coca"
+    },
+    {
+        "binario": "000101110",
+        "imagem": "escavadeira"
+    },
+    {
+        "binario": "000101111",
+        "imagem": "scooby "
+    },
+    {
+        "binario": "000110000",
+        "imagem": "safe house"
+    },
+    {
+        "binario": "000110001",
+        "imagem": "savitar"
+    },
+    {
+        "binario": "000110010",
+        "imagem": "esfinge"
+    },
+    {
+        "binario": "000110011",
+        "imagem": "sofá marrom"
+    },
+    {
+        "binario": "000110100",
+        "imagem": "esfregão"
+    },
+    {
+        "binario": "000110101",
+        "imagem": "sufocador saco"
+    },
+    {
+        "binario": "000110110",
+        "imagem": "fofão"
+    },
+    {
+        "binario": "000110111",
+        "imagem": "safe box"
+    },
+    {
+        "binario": "000111000",
+        "imagem": "sebastian"
+    },
+    {
+        "binario": "000111001",
+        "imagem": "espada"
+    },
+    {
+        "binario": "000111010",
+        "imagem": "esponja"
+    },
+    {
+        "binario": "000111011",
+        "imagem": "spam"
+    },
+    {
+        "binario": "000111100",
+        "imagem": "superman"
+    },
+    {
+        "binario": "000111101",
+        "imagem": "spock"
+    },
+    {
+        "binario": "000111110",
+        "imagem": "pavê"
+    },
+    {
+        "binario": "000111111",
+        "imagem": "sabão pó"
+    },
+    {
+        "binario": "001000000",
+        "imagem": "neymar"
+    },
+    {
+        "binario": "001000001",
+        "imagem": "tecido"
+    },
+    {
+        "binario": "001000010",
+        "imagem": "desentupidor"
+    },
+    {
+        "binario": "001000011",
+        "imagem": "taz mania"
+    },
+    {
+        "binario": "001000100",
+        "imagem": "tesoura"
+    },
+    {
+        "binario": "001000101",
+        "imagem": "discoteca"
+    },
+    {
+        "binario": "001000110",
+        "imagem": "adesivo anti"
+    },
+    {
+        "binario": "001000111",
+        "imagem": "tea spoon"
+    },
+    {
+        "binario": "001001000",
+        "imagem": "dados"
+    },
+    {
+        "binario": "001001001",
+        "imagem": "ditador"
+    },
+    {
+        "binario": "001001010",
+        "imagem": "toddynho"
+    },
+    {
+        "binario": "001001011",
+        "imagem": "tudum netflix"
+    },
+    {
+        "binario": "001001100",
+        "imagem": "totoro"
+    },
+    {
+        "binario": "001001101",
+        "imagem": "diddy kong"
+    },
+    {
+        "binario": "001001110",
+        "imagem": "dádiva óleo"
+    },
+    {
+        "binario": "001001111",
+        "imagem": "audiotape"
+    },
+    {
+        "binario": "001010000",
+        "imagem": "dinossauro"
+    },
+    {
+        "binario": "001010001",
+        "imagem": "dente"
+    },
+    {
+        "binario": "001010010",
+        "imagem": "danone"
+    },
+    {
+        "binario": "001010011",
+        "imagem": "dinamite"
+    },
+    {
+        "binario": "001010100",
+        "imagem": "dinheiro"
+    },
+    {
+        "binario": "001010101",
+        "imagem": "dengue"
+    },
+    {
+        "binario": "001010110",
+        "imagem": "danny phantom"
+    },
+    {
+        "binario": "001010111",
+        "imagem": "wooden box"
+    },
+    {
+        "binario": "001011000",
+        "imagem": "thomas"
+    },
+    {
+        "binario": "001011001",
+        "imagem": "tomada"
+    },
+    {
+        "binario": "001011010",
+        "imagem": "diamante"
+    },
+    {
+        "binario": "001011011",
+        "imagem": "tim maia"
+    },
+    {
+        "binario": "001011100",
+        "imagem": "tom riddle"
+    },
+    {
+        "binario": "001011101",
+        "imagem": "tomacco"
+    },
+    {
+        "binario": "001011110",
+        "imagem": "tim fibra"
+    },
+    {
+        "binario": "001011111",
+        "imagem": "tambor "
+    },
+    {
+        "binario": "001100000",
+        "imagem": "tristeza"
+    },
+    {
+        "binario": "001100001",
+        "imagem": "torta"
+    },
+    {
+        "binario": "001100010",
+        "imagem": "tornado"
+    },
+    {
+        "binario": "001100011",
+        "imagem": "trompete"
+    },
+    {
+        "binario": "001100100",
+        "imagem": "torre"
+    },
+    {
+        "binario": "001100101",
+        "imagem": "dragão"
+    },
+    {
+        "binario": "001100110",
+        "imagem": "darwin"
+    },
+    {
+        "binario": "001100111",
+        "imagem": "turbo"
+    },
+    {
+        "binario": "001101000",
+        "imagem": "dexter"
+    },
+    {
+        "binario": "001101001",
+        "imagem": "tuk tuk"
+    },
+    {
+        "binario": "001101010",
+        "imagem": "tucano"
+    },
+    {
+        "binario": "001101011",
+        "imagem": "tagima violão"
+    },
+    {
+        "binario": "001101100",
+        "imagem": "tigre"
+    },
+    {
+        "binario": "001101101",
+        "imagem": "decágono"
+    },
+    {
+        "binario": "001101110",
+        "imagem": "dick vigarista"
+    },
+    {
+        "binario": "001101111",
+        "imagem": "taco de baseball"
+    },
+    {
+        "binario": "001110000",
+        "imagem": "divisória"
+    },
+    {
+        "binario": "001110001",
+        "imagem": "dvd"
+    },
+    {
+        "binario": "001110010",
+        "imagem": "daphne"
+    },
+    {
+        "binario": "001110011",
+        "imagem": "defumador"
+    },
+    {
+        "binario": "001110100",
+        "imagem": "diver fins"
+    },
+    {
+        "binario": "001110101",
+        "imagem": "tv cabo"
+    },
+    {
+        "binario": "001110110",
+        "imagem": "divã veludo"
+    },
+    {
+        "binario": "001110111",
+        "imagem": "diva plavalaguna"
+    },
+    {
+        "binario": "001111000",
+        "imagem": "tobias wilson"
+    },
+    {
+        "binario": "001111001",
+        "imagem": "tapete mágico"
+    },
+    {
+        "binario": "001111010",
+        "imagem": "tubo de ensaio"
+    },
+    {
+        "binario": "001111011",
+        "imagem": "tpm absorvente"
+    },
+    {
+        "binario": "001111100",
+        "imagem": "tubarão"
+    },
+    {
+        "binario": "001111101",
+        "imagem": "tobogã"
+    },
+    {
+        "binario": "001111110",
+        "imagem": "tubo de formatura"
+    },
+    {
+        "binario": "001111111",
+        "imagem": "dipper pines"
+    },
+    {
+        "binario": "010000000",
+        "imagem": "nazis"
+    },
+    {
+        "binario": "010000001",
+        "imagem": "anais watterson"
+    },
+    {
+        "binario": "010000010",
+        "imagem": "incenso"
+    },
+    {
+        "binario": "010000011",
+        "imagem": "noz moscada"
+    },
+    {
+        "binario": "010000100",
+        "imagem": "nasa roupa"
+    },
+    {
+        "binario": "010000101",
+        "imagem": "insectossauro"
+    },
+    {
+        "binario": "010000110",
+        "imagem": "nsv gun"
+    },
+    {
+        "binario": "010000111",
+        "imagem": "ensopado"
+    },
+    {
+        "binario": "010001000",
+        "imagem": "ants"
+    },
+    {
+        "binario": "010001001",
+        "imagem": "nadador"
+    },
+    {
+        "binario": "010001010",
+        "imagem": "antena"
+    },
+    {
+        "binario": "010001011",
+        "imagem": "andaime"
+    },
+    {
+        "binario": "010001100",
+        "imagem": "nitro"
+    },
+    {
+        "binario": "010001101",
+        "imagem": "náutico"
+    },
+    {
+        "binario": "010001110",
+        "imagem": "nativo"
+    },
+    {
+        "binario": "010001111",
+        "imagem": "notebook"
+    },
+    {
+        "binario": "010010000",
+        "imagem": "ananás"
+    },
+    {
+        "binario": "010010001",
+        "imagem": "neandertal"
+    },
+    {
+        "binario": "010010010",
+        "imagem": "nani"
+    },
+    {
+        "binario": "010010011",
+        "imagem": "anônimo"
+    },
+    {
+        "binario": "010010100",
+        "imagem": "onion ring"
+    },
+    {
+        "binario": "010010101",
+        "imagem": "nanquim caneta"
+    },
+    {
+        "binario": "010010110",
+        "imagem": "ninfa"
+    },
+    {
+        "binario": "010010111",
+        "imagem": "nanny baba"
+    },
+    {
+        "binario": "010011000",
+        "imagem": "namaste"
+    },
+    {
+        "binario": "010011001",
+        "imagem": "nômade"
+    },
+    {
+        "binario": "010011010",
+        "imagem": "anêmona"
+    },
+    {
+        "binario": "010011011",
+        "imagem": "nemo-mo"
+    },
+    {
+        "binario": "010011100",
+        "imagem": "número pi"
+    },
+    {
+        "binario": "010011101",
+        "imagem": "anemico"
+    },
+    {
+        "binario": "010011110",
+        "imagem": "no move geoguessr"
+    },
+    {
+        "binario": "010011111",
+        "imagem": "numbers"
+    },
+    {
+        "binario": "010100000",
+        "imagem": "nariz"
+    },
+    {
+        "binario": "010100001",
+        "imagem": "naruto"
+    },
+    {
+        "binario": "010100010",
+        "imagem": "neurônio"
+    },
+    {
+        "binario": "010100011",
+        "imagem": "norman"
+    },
+    {
+        "binario": "010100100",
+        "imagem": "narrador cid moreira"
+    },
+    {
+        "binario": "010100101",
+        "imagem": "narguilé"
+    },
+    {
+        "binario": "010100110",
+        "imagem": "nerf"
+    },
+    {
+        "binario": "010100111",
+        "imagem": "norbit"
+    },
+    {
+        "binario": "010101000",
+        "imagem": "onix"
+    },
+    {
+        "binario": "010101001",
+        "imagem": "nicotina"
+    },
+    {
+        "binario": "010101010",
+        "imagem": "incandescente lâmpada"
+    },
+    {
+        "binario": "010101011",
+        "imagem": "enigma"
+    },
+    {
+        "binario": "010101100",
+        "imagem": "unicórnio"
+    },
+    {
+        "binario": "010101101",
+        "imagem": "inca god"
+    },
+    {
+        "binario": "010101110",
+        "imagem": "incavel"
+    },
+    {
+        "binario": "010101111",
+        "imagem": "encapsulado unha"
+    },
+    {
+        "binario": "010110000",
+        "imagem": "nave espacial"
+    },
+    {
+        "binario": "010110001",
+        "imagem": "naftalina"
+    },
+    {
+        "binario": "010110010",
+        "imagem": "invencível"
+    },
+    {
+        "binario": "010110011",
+        "imagem": "nuvem"
+    },
+    {
+        "binario": "010110100",
+        "imagem": "dr. nefário"
+    },
+    {
+        "binario": "010110101",
+        "imagem": "navegador"
+    },
+    {
+        "binario": "010110110",
+        "imagem": "niffler"
+    },
+    {
+        "binario": "010110111",
+        "imagem": "anfíbio"
+    },
+    {
+        "binario": "010111000",
+        "imagem": "ônibus londres"
+    },
+    {
+        "binario": "010111001",
+        "imagem": "nabbit"
+    },
+    {
+        "binario": "010111010",
+        "imagem": "nubank"
+    },
+    {
+        "binario": "010111011",
+        "imagem": "nabo mexicano"
+    },
+    {
+        "binario": "010111100",
+        "imagem": "nobre rei"
+    },
+    {
+        "binario": "010111101",
+        "imagem": "npc villager"
+    },
+    {
+        "binario": "010111110",
+        "imagem": "nappy fralda"
+    },
+    {
+        "binario": "010111111",
+        "imagem": "núbia"
+    },
+    {
+        "binario": "011000000",
+        "imagem": "mesa de som"
+    },
+    {
+        "binario": "011000001",
+        "imagem": "maestro"
+    },
+    {
+        "binario": "011000010",
+        "imagem": "maçonaria"
+    },
+    {
+        "binario": "011000011",
+        "imagem": "masmorra"
+    },
+    {
+        "binario": "011000100",
+        "imagem": "muçarela"
+    },
+    {
+        "binario": "011000101",
+        "imagem": "máskara"
+    },
+    {
+        "binario": "011000110",
+        "imagem": "maçã verde"
+    },
+    {
+        "binario": "011000111",
+        "imagem": "mouse pad"
+    },
+    {
+        "binario": "011001000",
+        "imagem": "medusa"
+    },
+    {
+        "binario": "011001001",
+        "imagem": "meditador monge"
+    },
+    {
+        "binario": "011001010",
+        "imagem": "midnight"
+    },
+    {
+        "binario": "011001011",
+        "imagem": "moto-moto"
+    },
+    {
+        "binario": "011001100",
+        "imagem": "madruga"
+    },
+    {
+        "binario": "011001101",
+        "imagem": "motoqueiro"
+    },
+    {
+        "binario": "011001110",
+        "imagem": "umidificador"
+    },
+    {
+        "binario": "011001111",
+        "imagem": "mtbike"
+    },
+    {
+        "binario": "011010000",
+        "imagem": "monociclo"
+    },
+    {
+        "binario": "011010001",
+        "imagem": "manda chuva"
+    },
+    {
+        "binario": "011010010",
+        "imagem": "minion"
+    },
+    {
+        "binario": "011010011",
+        "imagem": "minnie mouse"
+    },
+    {
+        "binario": "011010100",
+        "imagem": "mineiro"
+    },
+    {
+        "binario": "011010101",
+        "imagem": "mangueira"
+    },
+    {
+        "binario": "011010110",
+        "imagem": "moinho de vento"
+    },
+    {
+        "binario": "011010111",
+        "imagem": "manopla thanos"
+    },
+    {
+        "binario": "011011000",
+        "imagem": "mimosa"
+    },
+    {
+        "binario": "011011001",
+        "imagem": "homem de lata"
+    },
+    {
+        "binario": "011011010",
+        "imagem": "mamona"
+    },
+    {
+        "binario": "011011011",
+        "imagem": "mimimi ballerina"
+    },
+    {
+        "binario": "011011100",
+        "imagem": "homem aranha"
+    },
+    {
+        "binario": "011011101",
+        "imagem": "mimico"
+    },
+    {
+        "binario": "011011110",
+        "imagem": "mamífero baleia"
+    },
+    {
+        "binario": "011011111",
+        "imagem": "mamba negra"
+    },
+    {
+        "binario": "011100000",
+        "imagem": "morsa"
+    },
+    {
+        "binario": "011100001",
+        "imagem": "morty"
+    },
+    {
+        "binario": "011100010",
+        "imagem": "morango"
+    },
+    {
+        "binario": "011100011",
+        "imagem": "marmita"
+    },
+    {
+        "binario": "011100100",
+        "imagem": "mirror"
+    },
+    {
+        "binario": "011100101",
+        "imagem": "margarida"
+    },
+    {
+        "binario": "011100110",
+        "imagem": "marvin"
+    },
+    {
+        "binario": "011100111",
+        "imagem": "mrbeast"
+    },
+    {
+        "binario": "011101000",
+        "imagem": "mike wazowski"
+    },
+    {
+        "binario": "011101001",
+        "imagem": "maquete"
+    },
+    {
+        "binario": "011101010",
+        "imagem": "magnet"
+    },
+    {
+        "binario": "011101011",
+        "imagem": "magma"
+    },
+    {
+        "binario": "011101100",
+        "imagem": "macarrão"
+    },
+    {
+        "binario": "011101101",
+        "imagem": "macaco george"
+    },
+    {
+        "binario": "011101110",
+        "imagem": "amigovos"
+    },
+    {
+        "binario": "011101111",
+        "imagem": "macabro it"
+    },
+    {
+        "binario": "011110000",
+        "imagem": "mavis drácula"
+    },
+    {
+        "binario": "011110001",
+        "imagem": "mofado queijo"
+    },
+    {
+        "binario": "011110010",
+        "imagem": "muffin"
+    },
+    {
+        "binario": "011110011",
+        "imagem": "movie matrix"
+    },
+    {
+        "binario": "011110100",
+        "imagem": "mufasa rei"
+    },
+    {
+        "binario": "011110101",
+        "imagem": "maoi figura"
+    },
+    {
+        "binario": "011110110",
+        "imagem": "muff"
+    },
+    {
+        "binario": "011110111",
+        "imagem": "mafia boss"
+    },
+    {
+        "binario": "011111000",
+        "imagem": "imposto leão"
+    },
+    {
+        "binario": "011111001",
+        "imagem": "empada"
+    },
+    {
+        "binario": "011111010",
+        "imagem": "empanado frango"
+    },
+    {
+        "binario": "011111011",
+        "imagem": "mapa mundi"
+    },
+    {
+        "binario": "011111100",
+        "imagem": "hambúrguer"
+    },
+    {
+        "binario": "011111101",
+        "imagem": "empacotador"
+    },
+    {
+        "binario": "011111110",
+        "imagem": "ambev cerveja"
+    },
+    {
+        "binario": "011111111",
+        "imagem": "mop up"
+    },
+    {
+        "binario": "100000000",
+        "imagem": "resistor"
+    },
+    {
+        "binario": "100000001",
+        "imagem": "roçadeira"
+    },
+    {
+        "binario": "100000010",
+        "imagem": "ursinho pooh"
+    },
+    {
+        "binario": "100000011",
+        "imagem": "rosemary"
+    },
+    {
+        "binario": "100000100",
+        "imagem": "roseira"
+    },
+    {
+        "binario": "100000101",
+        "imagem": "rosquinha"
+    },
+    {
+        "binario": "100000110",
+        "imagem": "rosa vermelha"
+    },
+    {
+        "binario": "100000111",
+        "imagem": "raspadinha"
+    },
+    {
+        "binario": "100001000",
+        "imagem": "artesanato"
+    },
+    {
+        "binario": "100001001",
+        "imagem": "ratatouille"
+    },
+    {
+        "binario": "100001010",
+        "imagem": "arduino"
+    },
+    {
+        "binario": "100001011",
+        "imagem": "ritmo da batida"
+    },
+    {
+        "binario": "100001100",
+        "imagem": "ratoeira"
+    },
+    {
+        "binario": "100001101",
+        "imagem": "hadouken"
+    },
+    {
+        "binario": "100001110",
+        "imagem": "artifício fogos"
+    },
+    {
+        "binario": "100001111",
+        "imagem": "rutabaga"
+    },
+    {
+        "binario": "100010000",
+        "imagem": "rinoceronte"
+    },
+    {
+        "binario": "100010001",
+        "imagem": "hunter"
+    },
+    {
+        "binario": "100010010",
+        "imagem": "rena natalina"
+    },
+    {
+        "binario": "100010011",
+        "imagem": "uranium"
+    },
+    {
+        "binario": "100010100",
+        "imagem": "runner"
+    },
+    {
+        "binario": "100010101",
+        "imagem": "ringo"
+    },
+    {
+        "binario": "100010110",
+        "imagem": "arno ventilador"
+    },
+    {
+        "binario": "100010111",
+        "imagem": "rainbow"
+    },
+    {
+        "binario": "100011000",
+        "imagem": "hermes"
+    },
+    {
+        "binario": "100011001",
+        "imagem": "armadura"
+    },
+    {
+        "binario": "100011010",
+        "imagem": "romano"
+    },
+    {
+        "binario": "100011011",
+        "imagem": "remo de madeira"
+    },
+    {
+        "binario": "100011100",
+        "imagem": "homer"
+    },
+    {
+        "binario": "100011101",
+        "imagem": "himiko"
+    },
+    {
+        "binario": "100011110",
+        "imagem": "arame farpado"
+    },
+    {
+        "binario": "100011111",
+        "imagem": "rambo"
+    },
+    {
+        "binario": "100100000",
+        "imagem": "horse"
+    },
+    {
+        "binario": "100100001",
+        "imagem": "hard day beatles"
+    },
+    {
+        "binario": "100100010",
+        "imagem": "roronoa"
+    },
+    {
+        "binario": "100100011",
+        "imagem": "arara amarela"
+    },
+    {
+        "binario": "100100100",
+        "imagem": "rã"
+    },
+    {
+        "binario": "100100101",
+        "imagem": "wirework human"
+    },
+    {
+        "binario": "100100110",
+        "imagem": "harvard bill gates"
+    },
+    {
+        "binario": "100100111",
+        "imagem": "herobrine"
+    },
+    {
+        "binario": "100101000",
+        "imagem": "rex toy"
+    },
+    {
+        "binario": "100101001",
+        "imagem": "raquete"
+    },
+    {
+        "binario": "100101010",
+        "imagem": "ar condicionado"
+    },
+    {
+        "binario": "100101011",
+        "imagem": "origami"
+    },
+    {
+        "binario": "100101100",
+        "imagem": "ricardo"
+    },
+    {
+        "binario": "100101101",
+        "imagem": "rick"
+    },
+    {
+        "binario": "100101110",
+        "imagem": "arquivo gavetas"
+    },
+    {
+        "binario": "100101111",
+        "imagem": "rigby"
+    },
+    {
+        "binario": "100110000",
+        "imagem": "ruffs"
+    },
+    {
+        "binario": "100110001",
+        "imagem": "raft"
+    },
+    {
+        "binario": "100110010",
+        "imagem": "ravena"
+    },
+    {
+        "binario": "100110011",
+        "imagem": "refém"
+    },
+    {
+        "binario": "100110100",
+        "imagem": "árvore das almas"
+    },
+    {
+        "binario": "100110101",
+        "imagem": "rafiki"
+    },
+    {
+        "binario": "100110110",
+        "imagem": "riff guitarra"
+    },
+    {
+        "binario": "100110111",
+        "imagem": "raiva pai"
+    },
+    {
+        "binario": "100111000",
+        "imagem": "arbusto"
+    },
+    {
+        "binario": "100111001",
+        "imagem": "rabbids"
+    },
+    {
+        "binario": "100111010",
+        "imagem": "robin"
+    },
+    {
+        "binario": "100111011",
+        "imagem": "rpm roda"
+    },
+    {
+        "binario": "100111100",
+        "imagem": "rapper eminem"
+    },
+    {
+        "binario": "100111101",
+        "imagem": "rabicó"
+    },
+    {
+        "binario": "100111110",
+        "imagem": "hpv vacina"
+    },
+    {
+        "binario": "100111111",
+        "imagem": "happy birthday cake "
+    },
+    {
+        "binario": "101000000",
+        "imagem": "gauss calculadora"
+    },
+    {
+        "binario": "101000001",
+        "imagem": "castor"
+    },
+    {
+        "binario": "101000010",
+        "imagem": "casinha"
+    },
+    {
+        "binario": "101000011",
+        "imagem": "cosmético"
+    },
+    {
+        "binario": "101000100",
+        "imagem": "caçarola"
+    },
+    {
+        "binario": "101000101",
+        "imagem": "cascão"
+    },
+    {
+        "binario": "101000110",
+        "imagem": "gaseificada água"
+    },
+    {
+        "binario": "101000111",
+        "imagem": "gasparzinho"
+    },
+    {
+        "binario": "101001000",
+        "imagem": "gotas"
+    },
+    {
+        "binario": "101001001",
+        "imagem": "cadeado"
+    },
+    {
+        "binario": "101001010",
+        "imagem": "cotonete"
+    },
+    {
+        "binario": "101001011",
+        "imagem": "kodomo doraemon"
+    },
+    {
+        "binario": "101001100",
+        "imagem": "cadeira"
+    },
+    {
+        "binario": "101001101",
+        "imagem": "gótica"
+    },
+    {
+        "binario": "101001110",
+        "imagem": "cadáver noiva"
+    },
+    {
+        "binario": "101001111",
+        "imagem": "catapulta"
+    },
+    {
+        "binario": "101010000",
+        "imagem": "ganso"
+    },
+    {
+        "binario": "101010001",
+        "imagem": "gandalf"
+    },
+    {
+        "binario": "101010010",
+        "imagem": "caninos"
+    },
+    {
+        "binario": "101010011",
+        "imagem": "economista warren buffet"
+    },
+    {
+        "binario": "101010100",
+        "imagem": "canário"
+    },
+    {
+        "binario": "101010101",
+        "imagem": "canguru"
+    },
+    {
+        "binario": "101010110",
+        "imagem": "cone de festa"
+    },
+    {
+        "binario": "101010111",
+        "imagem": "canábis"
+    },
+    {
+        "binario": "101011000",
+        "imagem": "camisa"
+    },
+    {
+        "binario": "101011001",
+        "imagem": "cometa"
+    },
+    {
+        "binario": "101011010",
+        "imagem": "comandante pinguim"
+    },
+    {
+        "binario": "101011011",
+        "imagem": "goma de mascar"
+    },
+    {
+        "binario": "101011100",
+        "imagem": "camarão"
+    },
+    {
+        "binario": "101011101",
+        "imagem": "comic"
+    },
+    {
+        "binario": "101011110",
+        "imagem": "gm firouzja"
+    },
+    {
+        "binario": "101011111",
+        "imagem": "gumball"
+    },
+    {
+        "binario": "101100000",
+        "imagem": "coração"
+    },
+    {
+        "binario": "101100001",
+        "imagem": "corda"
+    },
+    {
+        "binario": "101100010",
+        "imagem": "grinch"
+    },
+    {
+        "binario": "101100011",
+        "imagem": "grama"
+    },
+    {
+        "binario": "101100100",
+        "imagem": "carro"
+    },
+    {
+        "binario": "101100101",
+        "imagem": "kraken"
+    },
+    {
+        "binario": "101100110",
+        "imagem": "corvo"
+    },
+    {
+        "binario": "101100111",
+        "imagem": "creeper"
+    },
+    {
+        "binario": "101101000",
+        "imagem": "cocos verdes"
+    },
+    {
+        "binario": "101101001",
+        "imagem": "cacto"
+    },
+    {
+        "binario": "101101010",
+        "imagem": "gaguinho"
+    },
+    {
+        "binario": "101101011",
+        "imagem": "guacamole"
+    },
+    {
+        "binario": "101101100",
+        "imagem": "coqueiro"
+    },
+    {
+        "binario": "101101101",
+        "imagem": "kkk"
+    },
+    {
+        "binario": "101101110",
+        "imagem": "cacau fruta"
+    },
+    {
+        "binario": "101101111",
+        "imagem": "cuca bicho"
+    },
+    {
+        "binario": "101110000",
+        "imagem": "coffee espresso"
+    },
+    {
+        "binario": "101110001",
+        "imagem": "gaivota"
+    },
+    {
+        "binario": "101110010",
+        "imagem": "coffin"
+    },
+    {
+        "binario": "101110011",
+        "imagem": "gavião marrom"
+    },
+    {
+        "binario": "101110100",
+        "imagem": "caveira"
+    },
+    {
+        "binario": "101110101",
+        "imagem": "cavaquinho"
+    },
+    {
+        "binario": "101110110",
+        "imagem": "kivi fruit"
+    },
+    {
+        "binario": "101110111",
+        "imagem": "give up"
+    },
+    {
+        "binario": "101111000",
+        "imagem": "cabeça de elefante"
+    },
+    {
+        "binario": "101111001",
+        "imagem": "capeta"
+    },
+    {
+        "binario": "101111010",
+        "imagem": "cabine telefone"
+    },
+    {
+        "binario": "101111011",
+        "imagem": "cbum"
+    },
+    {
+        "binario": "101111100",
+        "imagem": "cubo rubik"
+    },
+    {
+        "binario": "101111101",
+        "imagem": "copag"
+    },
+    {
+        "binario": "101111110",
+        "imagem": "capa violão"
+    },
+    {
+        "binario": "101111111",
+        "imagem": "cobweb"
+    },
+    {
+        "binario": "110000000",
+        "imagem": "fezes"
+    },
+    {
+        "binario": "110000001",
+        "imagem": "avestruz"
+    },
+    {
+        "binario": "110000010",
+        "imagem": "fazenda"
+    },
+    {
+        "binario": "110000011",
+        "imagem": "office michael scott"
+    },
+    {
+        "binario": "110000100",
+        "imagem": "vassoura"
+    },
+    {
+        "binario": "110000101",
+        "imagem": "físico albert einstein"
+    },
+    {
+        "binario": "110000110",
+        "imagem": "fósforo"
+    },
+    {
+        "binario": "110000111",
+        "imagem": "vespa"
+    },
+    {
+        "binario": "110001000",
+        "imagem": "feiticeiro"
+    },
+    {
+        "binario": "110001001",
+        "imagem": "fada do dente"
+    },
+    {
+        "binario": "110001010",
+        "imagem": "fio dental"
+    },
+    {
+        "binario": "110001011",
+        "imagem": "vitamina de banana"
+    },
+    {
+        "binario": "110001100",
+        "imagem": "vidro"
+    },
+    {
+        "binario": "110001101",
+        "imagem": "vodka"
+    },
+    {
+        "binario": "110001110",
+        "imagem": "fit food tapioca"
+    },
+    {
+        "binario": "110001111",
+        "imagem": "vtuber dante"
+    },
+    {
+        "binario": "110010000",
+        "imagem": "vans"
+    },
+    {
+        "binario": "110010001",
+        "imagem": "fanta"
+    },
+    {
+        "binario": "110010010",
+        "imagem": "veneno"
+    },
+    {
+        "binario": "110010011",
+        "imagem": "venom"
+    },
+    {
+        "binario": "110010100",
+        "imagem": "fini ropes"
+    },
+    {
+        "binario": "110010101",
+        "imagem": "vingador cap. américa"
+    },
+    {
+        "binario": "110010110",
+        "imagem": "fone de ouvido"
+    },
+    {
+        "binario": "110010111",
+        "imagem": "avon perfume"
+    },
+    {
+        "binario": "110011000",
+        "imagem": "fimas macaco butterzim"
+    },
+    {
+        "binario": "110011001",
+        "imagem": "vômito"
+    },
+    {
+        "binario": "110011010",
+        "imagem": "fumante pulmão"
+    },
+    {
+        "binario": "110011011",
+        "imagem": "femme lion"
+    },
+    {
+        "binario": "110011100",
+        "imagem": "fumarola"
+    },
+    {
+        "binario": "110011101",
+        "imagem": "fumikage"
+    },
+    {
+        "binario": "110011110",
+        "imagem": "fumo verde"
+    },
+    {
+        "binario": "110011111",
+        "imagem": "vampiro"
+    },
+    {
+        "binario": "110100000",
+        "imagem": "freeza"
+    },
+    {
+        "binario": "110100001",
+        "imagem": "freddie mercury"
+    },
+    {
+        "binario": "110100010",
+        "imagem": "frango"
+    },
+    {
+        "binario": "110100011",
+        "imagem": "framboesa"
+    },
+    {
+        "binario": "110100100",
+        "imagem": "ferreiro"
+    },
+    {
+        "binario": "110100101",
+        "imagem": "forky"
+    },
+    {
+        "binario": "110100110",
+        "imagem": "frevo guarda chuva"
+    },
+    {
+        "binario": "110100111",
+        "imagem": "ferro de passar"
+    },
+    {
+        "binario": "110101000",
+        "imagem": "foxy"
+    },
+    {
+        "binario": "110101001",
+        "imagem": "avocado"
+    },
+    {
+        "binario": "110101010",
+        "imagem": "viking"
+    },
+    {
+        "binario": "110101011",
+        "imagem": "faca militar"
+    },
+    {
+        "binario": "110101100",
+        "imagem": "fogueira"
+    },
+    {
+        "binario": "110101101",
+        "imagem": "vaca cogumelo"
+    },
+    {
+        "binario": "110101110",
+        "imagem": "foca vesga"
+    },
+    {
+        "binario": "110101111",
+        "imagem": "vagabundo"
+    },
+    {
+        "binario": "110110000",
+        "imagem": "fofossauro"
+    },
+    {
+        "binario": "110110001",
+        "imagem": "fifi turma da mônica"
+    },
+    {
+        "binario": "110110010",
+        "imagem": "fifine"
+    },
+    {
+        "binario": "110110011",
+        "imagem": "favo de mel"
+    },
+    {
+        "binario": "110110100",
+        "imagem": "uva verde"
+    },
+    {
+        "binario": "110110101",
+        "imagem": "fofoqueira"
+    },
+    {
+        "binario": "110110110",
+        "imagem": "fi-fo-fu"
+    },
+    {
+        "binario": "110110111",
+        "imagem": "fbi"
+    },
+    {
+        "binario": "110111000",
+        "imagem": "ovo de páscoa"
+    },
+    {
+        "binario": "110111001",
+        "imagem": "vip detentor"
+    },
+    {
+        "binario": "110111010",
+        "imagem": "fabiana"
+    },
+    {
+        "binario": "110111011",
+        "imagem": "vbm tank"
+    },
+    {
+        "binario": "110111100",
+        "imagem": "víbora"
+    },
+    {
+        "binario": "110111101",
+        "imagem": "fuboca"
+    },
+    {
+        "binario": "110111110",
+        "imagem": "wap forte"
+    },
+    {
+        "binario": "110111111",
+        "imagem": "avião de papel"
+    },
+    {
+        "binario": "111000000",
+        "imagem": "passas"
+    },
+    {
+        "binario": "111000001",
+        "imagem": "besta"
+    },
+    {
+        "binario": "111000010",
+        "imagem": "piscina"
+    },
+    {
+        "binario": "111000011",
+        "imagem": "abismo"
+    },
+    {
+        "binario": "111000100",
+        "imagem": "bowser"
+    },
+    {
+        "binario": "111000101",
+        "imagem": "biscoito shrek"
+    },
+    {
+        "binario": "111000110",
+        "imagem": "pacificador"
+    },
+    {
+        "binario": "111000111",
+        "imagem": "bispo"
+    },
+    {
+        "binario": "111001000",
+        "imagem": "pizza"
+    },
+    {
+        "binario": "111001001",
+        "imagem": "patati"
+    },
+    {
+        "binario": "111001010",
+        "imagem": "patinho amarelo"
+    },
+    {
+        "binario": "111001011",
+        "imagem": "batman"
+    },
+    {
+        "binario": "111001100",
+        "imagem": "patrick"
+    },
+    {
+        "binario": "111001101",
+        "imagem": "bitcoin"
+    },
+    {
+        "binario": "111001110",
+        "imagem": "pdf impresso"
+    },
+    {
+        "binario": "111001111",
+        "imagem": "bat baby"
+    },
+    {
+        "binario": "111010000",
+        "imagem": "benson"
+    },
+    {
+        "binario": "111010001",
+        "imagem": "pinhata"
+    },
+    {
+        "binario": "111010010",
+        "imagem": "banana"
+    },
+    {
+        "binario": "111010011",
+        "imagem": "panama chapeu"
+    },
+    {
+        "binario": "111010100",
+        "imagem": "banheira"
+    },
+    {
+        "binario": "111010101",
+        "imagem": "pinóquio"
+    },
+    {
+        "binario": "111010110",
+        "imagem": "penknife"
+    },
+    {
+        "binario": "111010111",
+        "imagem": "ponei branco"
+    },
+    {
+        "binario": "111011000",
+        "imagem": "bahamas"
+    },
+    {
+        "binario": "111011001",
+        "imagem": "pomada"
+    },
+    {
+        "binario": "111011010",
+        "imagem": "pimentão"
+    },
+    {
+        "binario": "111011011",
+        "imagem": "bmo"
+    },
+    {
+        "binario": "111011100",
+        "imagem": "bumerangue"
+    },
+    {
+        "binario": "111011101",
+        "imagem": "pam queen"
+    },
+    {
+        "binario": "111011110",
+        "imagem": "bee movie"
+    },
+    {
+        "binario": "111011111",
+        "imagem": "bambu"
+    },
+    {
+        "binario": "111100000",
+        "imagem": "braços quatro"
+    },
+    {
+        "binario": "111100001",
+        "imagem": "bart"
+    },
+    {
+        "binario": "111100010",
+        "imagem": "pernalonga"
+    },
+    {
+        "binario": "111100011",
+        "imagem": "berimbau"
+    },
+    {
+        "binario": "111100100",
+        "imagem": "perry"
+    },
+    {
+        "binario": "111100101",
+        "imagem": "prego"
+    },
+    {
+        "binario": "111100110",
+        "imagem": "privada"
+    },
+    {
+        "binario": "111100111",
+        "imagem": "barba negra"
+    },
+    {
+        "binario": "111101000",
+        "imagem": "picles"
+    },
+    {
+        "binario": "111101001",
+        "imagem": "bigode"
+    },
+    {
+        "binario": "111101010",
+        "imagem": "bacon"
+    },
+    {
+        "binario": "111101011",
+        "imagem": "pac-man"
+    },
+    {
+        "binario": "111101100",
+        "imagem": "bigorna"
+    },
+    {
+        "binario": "111101101",
+        "imagem": "peacock"
+    },
+    {
+        "binario": "111101110",
+        "imagem": "pig feet"
+    },
+    {
+        "binario": "111101111",
+        "imagem": "pica-pau"
+    },
+    {
+        "binario": "111110000",
+        "imagem": "pvz peashooter"
+    },
+    {
+        "binario": "111110001",
+        "imagem": "bife tiras"
+    },
+    {
+        "binario": "111110010",
+        "imagem": "bovino"
+    },
+    {
+        "binario": "111110011",
+        "imagem": "bafômetro"
+    },
+    {
+        "binario": "111110100",
+        "imagem": "pão francês"
+    },
+    {
+        "binario": "111110101",
+        "imagem": "pvc cano"
+    },
+    {
+        "binario": "111110110",
+        "imagem": "puff"
+    },
+    {
+        "binario": "111110111",
+        "imagem": "puff peixe "
+    },
+    {
+        "binario": "111111000",
+        "imagem": "bob esponja"
+    },
+    {
+        "binario": "111111001",
+        "imagem": "bíbede"
+    },
+    {
+        "binario": "111111010",
+        "imagem": "pippin hobbit"
+    },
+    {
+        "binario": "111111011",
+        "imagem": "bpm metrônomo"
+    },
+    {
+        "binario": "111111100",
+        "imagem": "abóbora"
+    },
+    {
+        "binario": "111111101",
+        "imagem": "pipoca"
+    },
+    {
+        "binario": "111111110",
+        "imagem": "pipa festa junina"
+    },
+    {
+        "binario": "111111111",
+        "imagem": "peppa pig"
+    }
+]
